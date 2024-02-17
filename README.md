@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 10.2.2024
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -54,6 +54,8 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![1a](https://github.com/srinivas-aids/WDM_EXP1/assets/93427183/1cb8553e-b609-4b44-99ca-f7a8b283fd58)
+![1b](https://github.com/srinivas-aids/WDM_EXP1/assets/93427183/7b280ec7-cb32-4bba-8194-f3eafbf4ece1)
 
 
 ### PREPROCESSING
@@ -75,6 +77,9 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![1c-i](https://github.com/srinivas-aids/WDM_EXP1/assets/93427183/abcdfb34-1a30-4a0d-9f35-6d4770670f34)
+
+![1d-i](https://github.com/srinivas-aids/WDM_EXP1/assets/93427183/d096ee5f-694d-4e5c-9633-7f1b9d5fc971)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -92,6 +97,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![1c-ii](https://github.com/srinivas-aids/WDM_EXP1/assets/93427183/845cf122-2a63-4556-a1c5-7a300378dd6d)
+![1d-ii](https://github.com/srinivas-aids/WDM_EXP1/assets/93427183/419829b3-83a6-4b4c-a5a4-6057abc66e91)
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -107,5 +115,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
+![1c-iii](https://github.com/srinivas-aids/WDM_EXP1/assets/93427183/0a29a132-2214-4312-ba51-9e1575e64001)
+
+![1d-iii](https://github.com/srinivas-aids/WDM_EXP1/assets/93427183/96cea789-8bd2-4778-8f30-f5492454c3cf)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
